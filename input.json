@@ -449,12 +449,6 @@
       "name": "天涯资源"
     },
     "93": {
-      "name": "TV-卧龙资源1",
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
-      "detail": "https://collect.wolongzyw.com",
-      "is_adult": false
-    },
-    "94": {
       "api": "https://dh.ha.cn/api.php/provide/vod",
       "name": "瀑布盘|点播",
       "detail": "www.pbpan.com"
