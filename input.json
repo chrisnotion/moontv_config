@@ -440,15 +440,10 @@
       "is_adult": false
     },
     "91": {
-      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
-      "name": "淘片",
-      "detail": "https://www.taopianzy.com/index.html"
-    },
-    "92": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
     },
-    "93": {
+    "92": {
       "api": "https://dh.ha.cn/api.php/provide/vod",
       "name": "瀑布盘|点播",
       "detail": "www.pbpan.com"
