@@ -378,10 +378,6 @@
       "is_adult": false
     },
     "78": {
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "name": "天涯资源"
-    },
-    "79": {
       "api": "https://dh.ha.cn/api.php/provide/vod",
       "name": "瀑布盘|点播",
       "detail": "www.pbpan.com"
