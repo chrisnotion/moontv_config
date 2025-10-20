@@ -332,11 +332,6 @@
       "api": "https://api.ukuapi.com/api.php/provide/vod",
       "detail": "https://api.ukuapi.com",
       "is_adult": false
-    },
-    "69": {
-      "api": "https://dh.ha.cn/api.php/provide/vod",
-      "name": "瀑布盘|点播",
-      "detail": "www.pbpan.com"
     }
   },
   "custom_category": [
