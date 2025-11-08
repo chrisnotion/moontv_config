@@ -223,12 +223,6 @@
     "46": {
       "name": "360资源站采集接口",
       "api": "https://360zy.com/api.php/provide/vod/"
-    },
-    "47": {
-      "name": "TV-U酷资源",
-      "api": "https://api.ukuapi.com/api.php/provide/vod",
-      "detail": "https://api.ukuapi.com",
-      "is_adult": false
     }
   },
   "custom_category": [
