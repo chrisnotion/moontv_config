@@ -114,10 +114,6 @@
     "23": {
       "name": "无尽资源网采集接口",
       "api": "https://api.wujinapi.me/api.php/provide/vod/"
-    },
-    "24": {
-      "name": "360资源站采集接口",
-      "api": "https://360zy.com/api.php/provide/vod/"
     }
   },
   "custom_category": [
