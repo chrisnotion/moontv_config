@@ -37,60 +37,55 @@
       "detail": "https://api.1080zyku.com"
     },
     "8": {
-      "name": "TV-豆瓣资源",
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "detail": "dbzy.tv"
-    },
-    "9": {
       "api": "https://www.gdlsp.com/api/json.php",
       "name": "AV-香奶儿资源",
       "detail": "https://www.gdlsp.com"
     },
-    "10": {
+    "9": {
       "name": "TV-wujinapi无尽",
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
       "detail": ""
     },
-    "11": {
+    "10": {
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "name": "索尼",
       "detail": "https://suonizy.com"
     },
-    "12": {
+    "11": {
       "api": "https://www.qilinzyz.com/api.php/provide/vod",
       "name": "TV-麒麟资源",
       "detail": "https://www.qilinzyz.com/"
     },
-    "13": {
+    "12": {
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
     },
-    "14": {
+    "13": {
       "name": "TV-1080资源",
       "api": "https://api.1080zyku.com/inc/api_mac10.php",
       "detail": "https://api.1080zyku.com"
     },
-    "15": {
+    "14": {
       "name": "TV-无尽资源",
       "api": "https://api.wujinapi.com/api.php/provide/vod",
       "detail": ""
     },
-    "16": {
+    "15": {
       "name": "TV-无尽资源",
       "api": "https://api.wujinapi.net/api.php/provide/vod",
       "detail": ""
     },
-    "17": {
+    "16": {
       "name": "TV-旺旺资源",
       "api": "https://api.wwzy.tv/api.php/provide/vod",
       "detail": "https://api.wwzy.tv"
     },
-    "18": {
+    "17": {
       "name": "TV-神马云",
       "api": "https://api.1080zyku.com/inc/apijson.php",
       "detail": "https://api.1080zyku.com"
     },
-    "19": {
+    "18": {
       "name": "无尽资源网采集接口",
       "api": "https://api.wujinapi.me/api.php/provide/vod/"
     }
